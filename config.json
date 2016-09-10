@@ -1,18 +1,16 @@
 {
   "irc": {
     "server": "irc.freenode.net",
-    "nick": "reddit-bot",
+    "nick": "glp-reddit-bot",
     "autoRejoin": true,
     "channels": [
-      "#nodebombrange"
+      "#glportal"
     ],
     "floodProtection": true,
     "debug": true
   },
   "subreddits": [
-    "programming",
-    "javascript",
-    "node"
+    "RadixEngine"
   ]
 }
 

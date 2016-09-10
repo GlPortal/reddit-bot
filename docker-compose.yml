@@ -1,0 +1,7 @@
+version: '2'
+services:
+  reddit-to-irc:
+    image: bitnami/node
+    command: bash -c "npm install; npm start"
+    volumes:
+      - .:/app
