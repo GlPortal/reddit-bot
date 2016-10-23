@@ -1,6 +1,9 @@
 # reddit-bot
 
-## start
+## Run with docker-compose
+1. 'docker-compose up'
+
+## Run with node
 
 1. `git clone git@github.com:jesusabdullah/reddit-bot.git`
 2. Edit the config.json
