@@ -1,7 +1,7 @@
 # reddit-bot
 
 ## Run with docker-compose
-1. 'docker-compose up'
+1. `docker-compose up`
 
 ## Run with node
 
